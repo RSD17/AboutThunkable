@@ -1,0 +1,24 @@
+body {
+
+    background-color: red;
+    color: white;
+
+}
+
+h1 {
+
+    text-align: center;
+
+}
+
+img:hover{
+
+    transform: scale(1.1);
+
+}
+
+p {
+
+    font-size: 20;
+
+}
